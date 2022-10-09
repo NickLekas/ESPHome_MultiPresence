@@ -173,7 +173,10 @@
       (reference "J2") (unit 1) (value "USB_C_Receptacle_Power") (footprint "My Footprints:USB_C_Power")
     )
     (path "/02e06518-bdda-448b-8333-c04796006756/7dab36cd-4853-4e19-8164-36081a9b10c0"
-      (reference "J3") (unit 1) (value "Screw_Terminal_01x02") (footprint "")
+      (reference "J3") (unit 1) (value "Screw_Terminal_01x02") (footprint "Connector_JST:JST_PH_S2B-PH-K_1x02_P2.00mm_Horizontal")
+    )
+    (path "/02e06518-bdda-448b-8333-c04796006756/338fae22-cb12-42bd-8605-63e3b28c8571"
+      (reference "J4") (unit 1) (value "Conn_01x03") (footprint "Connector_PinHeader_2.54mm:PinHeader_1x03_P2.54mm_Vertical")
     )
     (path "/fb6bc2b2-fb70-4cbc-8144-2f6085fecaff/847789dc-8f24-44e8-90b2-bc63a8d41e47"
       (reference "R1") (unit 1) (value "10K") (footprint "Resistor_SMD:R_0603_1608Metric")
@@ -210,9 +213,6 @@
     )
     (path "/02e06518-bdda-448b-8333-c04796006756/7096d75b-bd80-42f4-9e3f-27f2f05715ea"
       (reference "SW2") (unit 1) (value "SW_Push") (footprint "Button_Switch_SMD:SW_SPST_EVQP2")
-    )
-    (path "/02e06518-bdda-448b-8333-c04796006756/c73e0a6c-8bd5-4e78-b648-2c199ed3d0c9"
-      (reference "SW3") (unit 1) (value "SW_SPDT") (footprint "")
     )
     (path "/02e06518-bdda-448b-8333-c04796006756/11cd4b94-6488-4d48-bcae-e0cd312e4262"
       (reference "U1") (unit 1) (value "ESP32-WROOM-32") (footprint "RF_Module:ESP32-WROOM-32")
