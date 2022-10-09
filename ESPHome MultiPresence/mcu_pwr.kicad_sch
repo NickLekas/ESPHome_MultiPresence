@@ -519,7 +519,7 @@
         )
         (pin passive line (at -7.62 -22.86 90) (length 5.08)
           (name "SHIELD" (effects (font (size 1.27 1.27))))
-          (number "S1" (effects (font (size 1.27 1.27))))
+          (number "SHLD" (effects (font (size 1.27 1.27))))
         )
       )
     )
@@ -2350,7 +2350,7 @@
     (pin "B12" (uuid 2c9ce877-1f08-4592-887d-c476ffb7d0ba))
     (pin "B5" (uuid c6924a3b-169c-4bf8-873f-506ac4a511ad))
     (pin "B9" (uuid fdbed254-e37e-4ff1-b81d-5001a1333e49))
-    (pin "S1" (uuid a8820a54-9452-46fe-93fe-2145f755c239))
+    (pin "SHLD" (uuid d59d1fa3-25ce-498d-a3d3-46f7de17f620))
   )
 
   (symbol (lib_id "Device:R_Small_US") (at 229.87 90.17 0) (unit 1)
