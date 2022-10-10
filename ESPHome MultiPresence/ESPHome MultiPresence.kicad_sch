@@ -172,8 +172,8 @@
     (path "/02e06518-bdda-448b-8333-c04796006756/f47a76cd-99c9-4e69-899e-89f6ef0f4bb9"
       (reference "J2") (unit 1) (value "USB_C_Receptacle_Power") (footprint "My Footprints:USB_C_Power")
     )
-    (path "/02e06518-bdda-448b-8333-c04796006756/7dab36cd-4853-4e19-8164-36081a9b10c0"
-      (reference "J3") (unit 1) (value "Screw_Terminal_01x02") (footprint "Connector_JST:JST_PH_S2B-PH-K_1x02_P2.00mm_Horizontal")
+    (path "/02e06518-bdda-448b-8333-c04796006756/ad9d76e2-437d-435e-8b8b-3522f4ca77e9"
+      (reference "J3") (unit 1) (value "Conn_01x02") (footprint "Connector_PinHeader_2.54mm:PinHeader_1x02_P2.54mm_Vertical")
     )
     (path "/02e06518-bdda-448b-8333-c04796006756/338fae22-cb12-42bd-8605-63e3b28c8571"
       (reference "J4") (unit 1) (value "Conn_01x03") (footprint "Connector_PinHeader_2.54mm:PinHeader_1x03_P2.54mm_Vertical")
@@ -226,8 +226,8 @@
     (path "/fb6bc2b2-fb70-4cbc-8144-2f6085fecaff/6393d8e9-e648-458f-87c0-4dab83b80f3c"
       (reference "U4") (unit 1) (value "TSL2591") (footprint "My Footprints:ODFN-6")
     )
-    (path "/fb6bc2b2-fb70-4cbc-8144-2f6085fecaff/076ddfc2-508e-46f9-8850-89b674071c52"
-      (reference "U5") (unit 1) (value "BME280") (footprint "Package_LGA:Bosch_LGA-8_2.5x2.5mm_P0.65mm_ClockwisePinNumbering")
+    (path "/fb6bc2b2-fb70-4cbc-8144-2f6085fecaff/b7ec94eb-e377-4843-a9d4-6c4661f41afb"
+      (reference "U5") (unit 1) (value "SHTC3") (footprint "Sensor_Humidity:Sensirion_DFN-4-1EP_2x2mm_P1mm_EP0.7x1.6mm")
     )
     (path "/02e06518-bdda-448b-8333-c04796006756/4af97b0e-ff35-4db5-9faa-d7a38b36b5c5"
       (reference "U6") (unit 1) (value "TLV75533PDBV") (footprint "Package_TO_SOT_SMD:SOT-23-5")
