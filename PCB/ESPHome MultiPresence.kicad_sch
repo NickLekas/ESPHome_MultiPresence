@@ -178,6 +178,15 @@
     (path "/02e06518-bdda-448b-8333-c04796006756/338fae22-cb12-42bd-8605-63e3b28c8571"
       (reference "J4") (unit 1) (value "Conn_01x03") (footprint "Connector_PinHeader_2.54mm:PinHeader_1x03_P2.54mm_Vertical")
     )
+    (path "/02e06518-bdda-448b-8333-c04796006756/b6205151-c80d-4338-8d67-09140ceaf39a"
+      (reference "JP1") (unit 1) (value "OpenJumper") (footprint "Jumper:SolderJumper-2_P1.3mm_Open_TrianglePad1.0x1.5mm")
+    )
+    (path "/02e06518-bdda-448b-8333-c04796006756/66f82def-2c7a-47e4-bb39-7c70d29b17b9"
+      (reference "JP2") (unit 1) (value "OpenJumper") (footprint "Jumper:SolderJumper-2_P1.3mm_Open_TrianglePad1.0x1.5mm")
+    )
+    (path "/02e06518-bdda-448b-8333-c04796006756/9728f2ac-d18e-4e64-80f0-36bf86aa0357"
+      (reference "JP3") (unit 1) (value "OpenJumper") (footprint "Jumper:SolderJumper-2_P1.3mm_Open_TrianglePad1.0x1.5mm")
+    )
     (path "/fb6bc2b2-fb70-4cbc-8144-2f6085fecaff/847789dc-8f24-44e8-90b2-bc63a8d41e47"
       (reference "R1") (unit 1) (value "10K") (footprint "Resistor_SMD:R_0603_1608Metric")
     )
