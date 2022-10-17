@@ -416,12 +416,12 @@
       ""
     ],
     [
-      "fb6bc2b2-fb70-4cbc-8144-2f6085fecaff",
-      "Sensors"
-    ],
-    [
       "02e06518-bdda-448b-8333-c04796006756",
       "MCU, Power"
+    ],
+    [
+      "fb6bc2b2-fb70-4cbc-8144-2f6085fecaff",
+      "Sensors"
     ]
   ],
   "text_variables": {}
