@@ -47,36 +47,36 @@
     (uuid 2e45f190-aac4-49ef-8e7a-2dbe3561c800)
   )
 
-  (symbol (lib_id "Mechanical:MountingHole") (at 142.24 179.07 0) (unit 1)
+  (symbol (lib_id "Mechanical:MountingHole") (at 139.7 171.45 0) (unit 1)
     (in_bom yes) (on_board yes) (fields_autoplaced)
     (uuid 742223af-f44b-4ec7-945d-fe0bfc20f82d)
-    (property "Reference" "H2" (id 0) (at 144.78 177.7999 0)
+    (property "Reference" "H2" (id 0) (at 142.24 170.1799 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
-    (property "Value" "MountingHole" (id 1) (at 144.78 180.3399 0)
+    (property "Value" "MountingHole" (id 1) (at 142.24 172.7199 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
-    (property "Footprint" "" (id 2) (at 142.24 179.07 0)
+    (property "Footprint" "MountingHole:MountingHole_3.2mm_M3_Pad_Via" (id 2) (at 139.7 171.45 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (property "Datasheet" "~" (id 3) (at 142.24 179.07 0)
+    (property "Datasheet" "~" (id 3) (at 139.7 171.45 0)
       (effects (font (size 1.27 1.27)) hide)
     )
   )
 
-  (symbol (lib_id "Mechanical:MountingHole") (at 142.24 173.99 0) (unit 1)
+  (symbol (lib_id "Mechanical:MountingHole") (at 139.7 166.37 0) (unit 1)
     (in_bom yes) (on_board yes) (fields_autoplaced)
     (uuid c988e6bb-789b-45fc-a022-2c94fc3382c9)
-    (property "Reference" "H1" (id 0) (at 144.78 172.7199 0)
+    (property "Reference" "H1" (id 0) (at 142.24 165.0999 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
-    (property "Value" "" (id 1) (at 144.78 175.2599 0)
+    (property "Value" "MountingHole" (id 1) (at 142.24 167.6399 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
-    (property "Footprint" "" (id 2) (at 142.24 173.99 0)
+    (property "Footprint" "MountingHole:MountingHole_3.2mm_M3_Pad_Via" (id 2) (at 139.7 166.37 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (property "Datasheet" "~" (id 3) (at 142.24 173.99 0)
+    (property "Datasheet" "~" (id 3) (at 139.7 166.37 0)
       (effects (font (size 1.27 1.27)) hide)
     )
   )
@@ -310,26 +310,20 @@
     (path "/02e06518-bdda-448b-8333-c04796006756/680a6363-b1c9-4cee-ba7d-3ba2e8c47bcd"
       (reference "TP4") (unit 1) (value "TestPoint") (footprint "TestPoint:TestPoint_THTPad_2.0x2.0mm_Drill1.0mm")
     )
-    (path "/02e06518-bdda-448b-8333-c04796006756/dea33614-e878-4b0e-b32f-24283ea1df53"
+    (path "/fb6bc2b2-fb70-4cbc-8144-2f6085fecaff/76fbd85d-2265-4697-9aca-f5babf51bf6b"
       (reference "TP5") (unit 1) (value "TestPoint") (footprint "TestPoint:TestPoint_THTPad_2.0x2.0mm_Drill1.0mm")
     )
-    (path "/02e06518-bdda-448b-8333-c04796006756/cede1638-147d-4c1d-b756-c02b8befeb06"
+    (path "/fb6bc2b2-fb70-4cbc-8144-2f6085fecaff/2ad961ac-0e85-4b4f-8f71-a006845292ba"
       (reference "TP6") (unit 1) (value "TestPoint") (footprint "TestPoint:TestPoint_THTPad_2.0x2.0mm_Drill1.0mm")
     )
-    (path "/fb6bc2b2-fb70-4cbc-8144-2f6085fecaff/76fbd85d-2265-4697-9aca-f5babf51bf6b"
+    (path "/fb6bc2b2-fb70-4cbc-8144-2f6085fecaff/670102d9-cbe5-41bf-8851-41b4b366cc52"
       (reference "TP7") (unit 1) (value "TestPoint") (footprint "TestPoint:TestPoint_THTPad_2.0x2.0mm_Drill1.0mm")
     )
-    (path "/fb6bc2b2-fb70-4cbc-8144-2f6085fecaff/2ad961ac-0e85-4b4f-8f71-a006845292ba"
+    (path "/fb6bc2b2-fb70-4cbc-8144-2f6085fecaff/233ffb6e-eb9f-4953-8272-983c6e32e87c"
       (reference "TP8") (unit 1) (value "TestPoint") (footprint "TestPoint:TestPoint_THTPad_2.0x2.0mm_Drill1.0mm")
     )
-    (path "/fb6bc2b2-fb70-4cbc-8144-2f6085fecaff/670102d9-cbe5-41bf-8851-41b4b366cc52"
-      (reference "TP9") (unit 1) (value "TestPoint") (footprint "TestPoint:TestPoint_THTPad_2.0x2.0mm_Drill1.0mm")
-    )
-    (path "/fb6bc2b2-fb70-4cbc-8144-2f6085fecaff/233ffb6e-eb9f-4953-8272-983c6e32e87c"
-      (reference "TP10") (unit 1) (value "TestPoint") (footprint "TestPoint:TestPoint_THTPad_2.0x2.0mm_Drill1.0mm")
-    )
     (path "/fb6bc2b2-fb70-4cbc-8144-2f6085fecaff/68d7f3ec-1207-4e95-99cb-36bf5ed22008"
-      (reference "TP11") (unit 1) (value "TestPoint") (footprint "TestPoint:TestPoint_THTPad_2.0x2.0mm_Drill1.0mm")
+      (reference "TP9") (unit 1) (value "TestPoint") (footprint "TestPoint:TestPoint_THTPad_2.0x2.0mm_Drill1.0mm")
     )
     (path "/02e06518-bdda-448b-8333-c04796006756/11cd4b94-6488-4d48-bcae-e0cd312e4262"
       (reference "U1") (unit 1) (value "ESP32-WROOM-32") (footprint "RF_Module:ESP32-WROOM-32")
@@ -340,11 +334,11 @@
     (path "/fb6bc2b2-fb70-4cbc-8144-2f6085fecaff/69fb26f8-92e4-4d9a-9588-1bb5853da192"
       (reference "U3") (unit 1) (value "SEN0395") (footprint "My Footprints:SEN0395")
     )
-    (path "/fb6bc2b2-fb70-4cbc-8144-2f6085fecaff/911f9e01-2092-4b84-875e-780e655575ff"
-      (reference "U4") (unit 1) (value "SEN0395") (footprint "My Footprints:SEN0395")
-    )
     (path "/fb6bc2b2-fb70-4cbc-8144-2f6085fecaff/b7ec94eb-e377-4843-a9d4-6c4661f41afb"
-      (reference "U5") (unit 1) (value "SHTC3") (footprint "Sensor_Humidity:Sensirion_DFN-4-1EP_2x2mm_P1mm_EP0.7x1.6mm")
+      (reference "U4") (unit 1) (value "SHTC3") (footprint "Sensor_Humidity:Sensirion_DFN-4-1EP_2x2mm_P1mm_EP0.7x1.6mm")
+    )
+    (path "/fb6bc2b2-fb70-4cbc-8144-2f6085fecaff/911f9e01-2092-4b84-875e-780e655575ff"
+      (reference "U5") (unit 1) (value "SEN0395") (footprint "My Footprints:SEN0395")
     )
     (path "/fb6bc2b2-fb70-4cbc-8144-2f6085fecaff/6393d8e9-e648-458f-87c0-4dab83b80f3c"
       (reference "U6") (unit 1) (value "TSL2591") (footprint "My Footprints:ODFN-6")
